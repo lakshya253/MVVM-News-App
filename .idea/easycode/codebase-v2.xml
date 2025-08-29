@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/app/src/androidTest/java/com/example/mvvmnewsapp/ExampleInstrumentedTest.kt;C:/Users/kishs/AndroidStudioProjects/MVVMNewsApp/app/src/main/java/com/example/mvvmnewsapp/ui/fragments/ArticleNewsFragment.kt;C:/Users/kishs/AndroidStudioProjects/MVVMNewsApp/app/src/main/java/com/example/mvvmnewsapp/ui/fragments/BreakingNewsFragment.kt;C:/Users/kishs/AndroidStudioProjects/MVVMNewsApp/app/src/main/java/com/example/mvvmnewsapp/ui/fragments/SavedNewsFragment.kt;C:/Users/kishs/AndroidStudioProjects/MVVMNewsApp/app/src/main/java/com/example/mvvmnewsapp/ui/fragments/SearchNewsFragment.kt;C:/Users/kishs/AndroidStudioProjects/MVVMNewsApp/app/src/main/java/com/example/mvvmnewsapp/ui/NewsActivity.kt;C:/Users/kishs/AndroidStudioProjects/MVVMNewsApp/app/src/test/java/com/example/mvvmnewsapp/ExampleUnitTest.kt;C:/Users/kishs/AndroidStudioProjects/MVVMNewsApp/app/build.gradle.kts;C:/Users/kishs/AndroidStudioProjects/MVVMNewsApp/build.gradle.kts;C:/Users/kishs/AndroidStudioProjects/MVVMNewsApp/settings.gradle.kts" />
+  </component>
+</project>
